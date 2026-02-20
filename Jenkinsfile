@@ -7,7 +7,7 @@ pipeline
     {
       steps
       {
-        sh 'echo "This is main Branch"'
+        sh 'echo "This is Feature1 Branch"'
       }
     }
   }
